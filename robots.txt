@@ -1,0 +1,6 @@
+# Robots.txt for https://VishvaX.in/
+User-agent: *
+Allow: /
+
+# Sitemap Index
+Sitemap: https://VishvaX.in/sitemap.xml
